@@ -1,0 +1,3 @@
+[Running] cd "c:\Users\usuario\Documents\camilapeludero\otros\AED\00-CppHelloWorld\" && g++ hello.cpp -o hello && "c:\Users\usuario\Documents\camilapeludero\otros\AED\00-CppHelloWorld\"hello
+Hola mundo!!
+[Done] exited with code=0 in 1.538 seconds
